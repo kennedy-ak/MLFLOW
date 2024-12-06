@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/akogo/Desktop/dream/MLFLOW/mlruns/337830696335146363/2d73a4dc85a74451966e46cc7ace4583/artifacts
+end_time: 1733492228972
+entry_point_name: ''
+experiment_id: '337830696335146363'
+lifecycle_stage: active
+run_id: 2d73a4dc85a74451966e46cc7ace4583
+run_name: Logistic Regression
+run_uuid: 2d73a4dc85a74451966e46cc7ace4583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733492228774
+status: 4
+tags: []
+user_id: akogo

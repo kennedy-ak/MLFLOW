@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/akogo/Desktop/dream/MLFLOW/mlruns/337830696335146363/02ad8fc7cf534582bbc68105c7161e07/artifacts
+end_time: 1733492279603
+entry_point_name: ''
+experiment_id: '337830696335146363'
+lifecycle_stage: active
+run_id: 02ad8fc7cf534582bbc68105c7161e07
+run_name: XGBClassifier
+run_uuid: 02ad8fc7cf534582bbc68105c7161e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733492274281
+status: 3
+tags: []
+user_id: akogo

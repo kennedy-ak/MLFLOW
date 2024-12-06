@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/akogo/Desktop/dream/MLFLOW/mlruns/337830696335146363/dbd8360d8c8e4c839c5127917b6e0345/artifacts
+end_time: 1733492285524
+entry_point_name: ''
+experiment_id: '337830696335146363'
+lifecycle_stage: active
+run_id: dbd8360d8c8e4c839c5127917b6e0345
+run_name: XGBClassifier With SMOTE
+run_uuid: dbd8360d8c8e4c839c5127917b6e0345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733492279650
+status: 3
+tags: []
+user_id: akogo

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/akogo/Desktop/dream/MLFLOW/mlruns/337830696335146363/7b9f451703d84f9f8a6cede30387f601/artifacts
+end_time: 1733492274212
+entry_point_name: ''
+experiment_id: '337830696335146363'
+lifecycle_stage: active
+run_id: 7b9f451703d84f9f8a6cede30387f601
+run_name: Random Forest
+run_uuid: 7b9f451703d84f9f8a6cede30387f601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733492267825
+status: 3
+tags: []
+user_id: akogo
